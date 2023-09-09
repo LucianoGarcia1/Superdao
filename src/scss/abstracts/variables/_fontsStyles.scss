@@ -1,0 +1,11 @@
+@use "../functions/functions" as functions;
+
+$h1Desktop: functions.rem(72px);
+$h1Mobile: functions.rem(32px);
+$h2Desktop: functions.rem(48px);
+$h2Mobile: functions.rem(24px);
+$h3Desktop: functions.rem(24px);
+$h3Mobile: functions.rem(18px);
+$pDesktop: functions.rem(18px);
+$pMobile: functions.rem(16px);
+$small: functions.rem(20px);
